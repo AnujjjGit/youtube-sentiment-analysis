@@ -1,0 +1,56 @@
+/* Set the background color */
+/* body {
+    background-color: #f9f9f9;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+Header styles
+.youtube-header {
+    background-color: #282828;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.youtube-logo {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+.youtube-header h1 {
+    font-size: 24px;
+}
+
+Content container styles*/
+.stApp {
+    /* max-width: 800px; */
+    margin: 20px auto;
+    padding: 20px;
+    background-color:  #000000;
+    box-shadow: 0px 0px 10px 0px #ffffff;
+}
+
+/* Input field styles */
+.stTextInput {
+    border: 2px solid #f8f2f2;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 15px;
+
+} 
+
+/* Footer styles */
+/* .youtube-footer {
+    background-color: #000000;
+    color: #272424;
+    text-align: center;
+    padding: 10px;
+    position: absolute;
+    bottom: 0;
+    width: 55%;
+} */
